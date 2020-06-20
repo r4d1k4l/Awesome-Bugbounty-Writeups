@@ -565,7 +565,7 @@
 - [How I found an SSRF in yahoo guesthouse (recon wins)](https://medium.com/@th3g3nt3l/how-i-found-an-ssrf-in-yahoo-guesthouse-recon-wins-8722672e41d4)
 - [Reading internal files using SSRF vulnerability](https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb)
 - [Airbnb chaining third party open redirect into SSRF via liveperson chat](https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/)
-- [How did I found SSRF in Facebook (MicroStrategy)](https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204)
+- [How did I find SSRF in Facebook (MicroStrategy)](https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204)
 
 
 ## Race Condition
